@@ -1,5 +1,5 @@
 [package]
-name = "math"
+name = "math-rs"
 version = "0.1.0"
 authors = ["Matthew Bettcher <mattbettcher@gmail.com>"]
 
